@@ -1,0 +1,11 @@
+venv/
+cookies.json
+database/*.db
+logs/
+__pycache__/
+*.py[cod]
+*.html
+*.json
+*.deb
+*.Zone.Identifier
+analysis/
